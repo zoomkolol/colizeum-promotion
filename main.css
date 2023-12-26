@@ -1,28 +1,28 @@
 @font-face {
   font-family: 'COLIZEUM';
   font-weight: normal;
-  src: url(/colizeum-promotion78170a65296b6b612258.woff) format(woff);
+  src: url(/colizeum-promotion/78170a65296b6b612258.woff) format(woff);
 }
 
 @font-face {
   font-family: 'Inter';
   font-weight: normal;
-  src: url(/colizeum-promotion6cc68d6b835a3dd06e7e.woff2) format(woff2),
-       url(/colizeum-promotion8398b3762d7b06fc3b8c.woff) format(woff);
+  src: url(/colizeum-promotion/6cc68d6b835a3dd06e7e.woff2) format(woff2),
+       url(/colizeum-promotion/8398b3762d7b06fc3b8c.woff) format(woff);
 }
 
 @font-face {
   font-family: 'Inter';
   font-weight: bold;
-  src: url(/colizeum-promotiona808c21aaa221f6d24f9.woff2) format(woff2),
-       url(/colizeum-promotion1c3dfbb05cd4ae02710e.woff) format(woff);
+  src: url(/colizeum-promotion/a808c21aaa221f6d24f9.woff2) format(woff2),
+       url(/colizeum-promotion/1c3dfbb05cd4ae02710e.woff) format(woff);
 }
 
 @font-face {
   font-family: 'Inter';
   font-weight: 600;
-  src: url(/colizeum-promotion625474d6ebbfe4e3b0ae.woff2) format(woff2),
-       url(/colizeum-promotion25b1ffc9587070462342.woff) format(woff);
+  src: url(/colizeum-promotion/625474d6ebbfe4e3b0ae.woff2) format(woff2),
+       url(/colizeum-promotion/25b1ffc9587070462342.woff) format(woff);
 }
 
 .page {
